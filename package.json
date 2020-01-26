@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon app.js" // npm start를 하면 노드몬의 app.js가 실행됨
+    "start": "nodemon app.js"
   },
   "repository": {
     "type": "git",
